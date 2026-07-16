@@ -1,4 +1,14 @@
-<h1 align="center"><img src=".assets/profile_banner.svg" alt="Developer Sparrow Banner" width="100%"></h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0057FF&height=220&section=header&text=ᴅᴇᴠᴇʟᴏᴘᴇʀ%20ꜱᴘᴀʀʀᴏᴡ&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=ꜱᴇɴɪᴏʀ%20ᴘʏᴛʜᴏɴ%20ᴅᴇᴠ%20%7C%20ꜰᴜʟʟꜱᴛᴀᴄᴋ%20ᴇxᴘᴇʀᴛ%20%7C%20ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ%20ɢᴇᴇᴋ&descSize=16&descAlignY=65&animation=twinkling" />
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+ʜᴇʏ+ᴅᴇᴀʀ,+ɪ'ᴍ+ᴅᴇᴠᴇʟᴏᴘᴇʀ+ꜱᴘᴀʀʀᴏᴡ!;🚀+ꜱᴇɴɪᴏʀ+ᴘʏᴛʜᴏɴ+ᴅᴇᴠᴇʟᴏᴘᴇʀ;💻+ꜰᴜʟʟꜱᴛᴀᴄᴋ+ᴇxᴘᴇʀᴛ;💡+ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ+ɢᴇᴇᴋ;🐍+ᴘʏᴛʜᴏɴ+%26+ᴀsᴘ+.ɴᴇᴛ+ʟᴏᴠᴇʀ" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src=".assets/profile_banner.jpg" alt="Developer Sparrow Banner" width="100%" style="border-radius: 12px; border: 2px solid #00F7FF;">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Main%20Language-Python-blue?style=for-the-badge&logo=python" alt="Language">
@@ -9,10 +19,8 @@
 ---
 
 <p align="center">
-  <img src=".assets/avatar.jpg" alt="Developer Sparrow Avatar" width="150" style="border-radius: 50%; border: 3px solid #8A2BE2; box-shadow: 0 0 15px #8A2BE2;">
+  <img src=".assets/avatar.jpg" alt="Developer Sparrow Avatar" width="160" style="border-radius: 50%; border: 3px solid #00F7FF; box-shadow: 0 0 20px #00F7FF;">
 </p>
-
-<h2 align="center">👋 Welcome, I'm Developer Sparrow!</h2>
 
 <p align="center">
   <strong>🔥 Senior Python Developer & Fullstack Expert | Bot Automations Specialist 🔥</strong>
@@ -39,20 +47,20 @@
   <tr>
     <td valign="top" width="50%">
       <h4>💻 Languages & Frameworks</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+      <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     </td>
     <td valign="top" width="50%">
       <h4>🔧 Tools & Environments</h4>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Linux%20(Kali)-130F30?style=for-the-badge&logo=kali-linux&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     </td>
   </tr>
@@ -63,12 +71,12 @@
 ### 📊 GitHub Stats & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevloperSP&show_icons=true&theme=tokyonight&count_private=true&border_radius=8" alt="GitHub Stats" width="48%">&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevloperSP&layout=compact&theme=tokyonight&border_radius=8" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevloperSP&show_icons=true&theme=tokyonight&border_radius=20&include_all_commits=true&count_private=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevloperSP&theme=tokyonight&border_radius=20&fire=FF6B35&ring=00F7FF&currStreakLabel=00F7FF" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevloperSP&theme=tokyonight&border_radius=8" alt="GitHub Streak" width="98%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevloperSP&theme=tokyo-night&radius=16&area=true&hide_border=false" width="100%" />
 </p>
 
 ---
